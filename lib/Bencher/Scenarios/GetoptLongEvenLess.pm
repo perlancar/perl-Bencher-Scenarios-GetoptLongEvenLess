@@ -1,4 +1,4 @@
-package Bencher::Scenarios::GetoptLong;
+package Bencher::Scenarios::GetoptLongEvenLess;
 
 # DATE
 # VERSION
